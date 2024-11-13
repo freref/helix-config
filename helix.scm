@@ -31,4 +31,3 @@
 (define (open-init-scm)
   (helix.open (helix.static.get-init-scm-path)))
   
-	
